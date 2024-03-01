@@ -35,7 +35,7 @@
   </ol>
 
 
-[![Tutorial Video](thumbnail.png)](https://raw.githubusercontent.com/udithanuwanw/Keyword-Tab-Opener--KTO-/2529bbbf05dd20819a8210b4f8eb2cb3db1d333c/tutorial-video.mp4)
+[![Tutorial Video](https://raw.githubusercontent.com/udithanuwanw/Keyword-Tab-Opener--KTO-/main/thumbnail.PNG)](https://raw.githubusercontent.com/udithanuwanw/Keyword-Tab-Opener--KTO-/2529bbbf05dd20819a8210b4f8eb2cb3db1d333c/tutorial-video.mp4)
 
 
   <h2>Contributing</h2>
