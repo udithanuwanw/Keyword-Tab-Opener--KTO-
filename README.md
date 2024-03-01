@@ -35,10 +35,6 @@
   </ol>
 
 
-
-[![Tutorial Video](https://raw.githubusercontent.com/udithanuwanw/Keyword-Tab-Opener--KTO-/main/thumbnail.PNG)](https://youtu.be/3cSuVRBeAqk)
-
-
   <h2>Contributing</h2>
 
   <p>Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.</p>
@@ -49,3 +45,5 @@
 
 </body>
 </html>
+
+https://github.com/udithanuwanw/Keyword-Tab-Opener--KTO-/assets/84243380/a6e9654e-5eb2-4094-a07d-8458cef62f05
