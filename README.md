@@ -34,6 +34,11 @@
     <li>Press Enter to open the corresponding webpage in a new tab.</li>
   </ol>
 
+  <video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/udithanuwanw/Keyword-Tab-Opener--KTO-/2529bbbf05dd20819a8210b4f8eb2cb3db1d333c/tutorial-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
   <h2>Contributing</h2>
 
   <p>Contributions are welcome! If you have any ideas, suggestions, or bug reports, feel free to open an issue or submit a pull request.</p>
